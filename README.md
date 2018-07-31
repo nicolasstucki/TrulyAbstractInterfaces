@@ -1,6 +1,6 @@
 ## Truly Abstract Interfaces for Algebraic Data Types - examples
 
-[![Build Status](https://travis-ci.org/nicolasstucki/TrulyAbstractInterfacesForAlgebraicDataTypes-FullCode.svg?branch=master)](https://travis-ci.org/nicolasstucki/TrulyAbstractInterfacesForAlgebraicDataTypes-FullCode)
+[![Build Status](https://travis-ci.org/nicolasstucki/TrulyAbstractInterfaces.svg?branch=master)](https://travis-ci.org/nicolasstucki/TrulyAbstractInterfaces)
 
 This project shows contains the full code of the examples in the paper.
 
